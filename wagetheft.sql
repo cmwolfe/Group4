@@ -12,6 +12,7 @@ CREATE TABLE Employee (
   name VARCHAR(40) NOT NULL,
   phoneNumber VARCHAR(15) DEFAULT NULL,
   employeeAddress VARCHAR(80) NOT NULL,
+  employeeType INT(1) NOT NULL,
   PRIMARY KEY(EmployeeID)
 )
 
