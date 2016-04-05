@@ -3,6 +3,7 @@
 
 include_once "utils.php";
 
+//This will have to change for the wage theft
 // Server information.
 $Proto = "http://";
 $Host = $_SERVER['SERVER_NAME'];
