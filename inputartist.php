@@ -1,8 +1,8 @@
 <?php
 	$menuActive=1;
 	include_once('config.php');
-	include_once('dbutils.php');
-	include_once('logincheck.php');
+	//include_once('dbutils.php');
+	//include_once('logincheck.php');
 	include_once('header.php');
 	
 ?>
