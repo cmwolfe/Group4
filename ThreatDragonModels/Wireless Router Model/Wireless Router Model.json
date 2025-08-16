@@ -1,0 +1,27 @@
+{
+  "version": "2.5.0-RC1",
+  "summary": {
+    "title": "Wireless Router Model",
+    "owner": "Chris",
+    "description": "Threat model test for a WAN",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.5.0-RC1",
+        "cells": [],
+        "description": "STRIDE iteration"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Josh Sevcick",
+    "threatTop": 0
+  }
+}
