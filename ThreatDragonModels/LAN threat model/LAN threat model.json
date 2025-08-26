@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "LAN threat model",
+    "owner": "Chris",
+    "description": "Threat model test",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 2,
+    "reviewer": "Josh Sevcick",
+    "threatTop": 0
+  }
+}
